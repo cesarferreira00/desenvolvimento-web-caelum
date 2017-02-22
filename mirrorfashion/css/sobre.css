@@ -26,10 +26,33 @@ figure {
 	border: 1px solid #ccc;
 	text-align: center;
 	padding: 15px;
-	margin: 30px;
-}
+	margin: 30px;centro
+}centro
 
 figcaption {
 	font-style: italic;
 	margin-top: 10px;
+}
+
+#centro-distribuicao {
+	margin-left: auto;
+	margin-right: auto;
+	width: 550px;
+}
+
+#rodape {
+	color: #777;
+	margin-right: 30px 0;
+	padding: 30px 0;
+}
+
+#rodape img {
+	margin-right: 30px;
+	vertical-align: middle;
+	width: 94px;
+}
+
+#familia-pelho {
+	float: right;
+	margin: 0 0 10px 10px;
 }
